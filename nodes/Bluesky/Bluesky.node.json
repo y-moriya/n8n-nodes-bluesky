@@ -1,0 +1,20 @@
+{
+	"node": "n8n-nodes-base.Bluesky",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Miscellaneous"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": ""
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://docs.bsky.app/docs/api/at-protocol-xrpc-api"
+			}
+		]
+	}
+}
